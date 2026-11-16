@@ -40,7 +40,6 @@ Dataset yang digunakan berasal dari hasil survey audiens Dibimbing.id yang beris
 - Ekspektasi Harga Program
 - Metode Pembelajaran
 - Jadwal Pembelajaran
-- Tools Used
 
 **Tools yang digunakan dalam project ini:**
 -
@@ -48,7 +47,6 @@ Dataset yang digunakan berasal dari hasil survey audiens Dibimbing.id yang beris
 - Python : Data Analysis
 - Power BI : Dashboard Visualization
 - GitHub : Project Documentation & Portfolio
-Process
 
 **Tahapan analisis yang dilakukan dalam project ini:**
 -
